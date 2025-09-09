@@ -65,5 +65,3 @@ https://drive.google.com/file/d/1Ue0xOUWepy1hwc0AT7cec8lZbJCBu0ck/view?usp=shari
 * Add **filters, search, and sorting** for products.
 * Introduce **wishlist & order history** features.
 ---
-
-Would you like me to also prepare a **shorter, recruiter-friendly version** (like for your resume/portfolio), or keep this full **GitHub README style** only?
