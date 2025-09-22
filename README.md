@@ -1,4 +1,4 @@
-# 🛒 My Store – E-commerce Web App
+<img width="1894" height="865" alt="487083063-c0ede464-51a0-4aaf-9f3f-6eb49a6e1eee" src="https://github.com/user-attachments/assets/ee8317a8-1f28-4fe2-894c-da88659503e9" /># 🛒 My Store – E-commerce Web App
 ---
 
 **My Store** is a modern **e-commerce application** built with React that provides a seamless shopping experience.
@@ -42,19 +42,19 @@ https://drive.google.com/file/d/1Ue0xOUWepy1hwc0AT7cec8lZbJCBu0ck/view?usp=shari
 ## 📸 Application Screenshots
 
 ###  Login Page
-<img width="1919" height="867" alt="login" src="https://github.com/user-attachments/assets/65706614-681e-40f1-a06d-f9482084617d" />
+<img width="1892" height="867" alt="487083029-65706614-681e-40f1-a06d-f9482084617d" src="https://github.com/user-attachments/assets/fbf58f8c-ed4b-4054-8dc2-2ce8dd186cba" />
 
 ###  Home Page
-<img width="1894" height="865" alt="home 1" src="https://github.com/user-attachments/assets/c0ede464-51a0-4aaf-9f3f-6eb49a6e1eee" />
+<img width="1892" height="867" alt="487083063-c0ede464-51a0-4aaf-9f3f-6eb49a6e1eee" src="https://github.com/user-attachments/assets/0765bd66-c882-4dde-974c-ccb5fa308041" />
 
 ###  Products
-<img width="1892" height="867" alt="products" src="https://github.com/user-attachments/assets/2f8adcf4-6436-405a-b3c6-cef2eaba552b" />
+<img width="1892" height="867" alt="487083125-2f8adcf4-6436-405a-b3c6-cef2eaba552b" src="https://github.com/user-attachments/assets/a48461eb-cb15-4882-bacd-c8848b465cfb" />
 
 ###  Product Details
-<img width="1893" height="869" alt="prodcut details" src="https://github.com/user-attachments/assets/cf13869c-afa4-4812-8320-aadb57050ed4" />
+<img width="1892" height="867" alt="487083162-cf13869c-afa4-4812-8320-aadb57050ed4" src="https://github.com/user-attachments/assets/accd665d-eab7-482e-bdb1-b90f36e8f4e1" />
 
 ###  Cart
-<img width="1689" height="863" alt="cart" src="https://github.com/user-attachments/assets/f3cee630-0ba6-4526-8289-8ac5e5447ec0" />
+<img width="1689" height="863" alt="487083203-f3cee630-0ba6-4526-8289-8ac5e5447ec0" src="https://github.com/user-attachments/assets/047ad869-3a9a-43c7-a603-f1242d22ba9b" />
 ---
 
 ## 📌 Future Improvements
