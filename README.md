@@ -1,4 +1,3 @@
-<img width="1894" height="865" alt="487083063-c0ede464-51a0-4aaf-9f3f-6eb49a6e1eee" src="https://github.com/user-attachments/assets/ee8317a8-1f28-4fe2-894c-da88659503e9" /># 🛒 My Store – E-commerce Web App
 ---
 
 **My Store** is a modern **e-commerce application** built with React that provides a seamless shopping experience.
