@@ -1,5 +1,3 @@
----
-
 **My Store** is a modern **e-commerce application** built with React that provides a seamless shopping experience.
 It allows users to **browse products, add them to cart, manage orders, and checkout** — all in a clean and responsive interface.
 
